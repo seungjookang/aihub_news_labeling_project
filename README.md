@@ -23,7 +23,7 @@ Windows의 **PowerShell을 사용하여 스크립트를 작성**합니다.
 ### (2) **Windows에서 AI Hub 데이터 다운로드**
 **작성 한 스크립트를 다운로드해, WSL을 사용하여 AI Hub 데이터를 로컬 환경에 다운로드**합니다.
 
-### (3) **Google Drive에서 데이터 업로드 후 Google Colab에 로드**
+### (3) **Google Drive에 데이터 업로드 후 Google Colab에 로드**
 Google Colab으로 돌아와 **Google Drive로부터 데이터를 로드**합니다.
 
 ### (4) **로드한 데이터를 압축 해제 후 전처리, 텍스트화**
